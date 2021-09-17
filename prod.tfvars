@@ -1,4 +1,4 @@
-s3_bucket = "jenkins-terraform-evolvecybertraining"
+s3_bucket = "s3-bucket-for-terraform-backend-class-burak"
 s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
